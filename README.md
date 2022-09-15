@@ -10,5 +10,10 @@
 ### Projects Page:
 <img src="./files/projects.png">
 
+### About Me Page:
+<img src="./files/aboutme.png">
+
 ### Blog Page:
 <img src="./files/blog.png">
+
+### + Contact Page
