@@ -3,7 +3,7 @@
 
 **https://www.dominicsprenger.de/**
 <br>
-**https://www.dsprenger.de/**
+**https://dsprenger.de/**
 
 ### Home:
 <img src="./files/website.png">
